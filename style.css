@@ -42,6 +42,7 @@ padding-right: 30px;
 display: flex;
 justify-content: center;
 height: fit-content;
+width: fit-content;
 }
 .estudante_titulo{
 padding: 50px;
