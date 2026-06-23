@@ -19,9 +19,9 @@ display: flex;
 }
 .cabecalho-imagem{
     width: 10px;
-    display: flex;
-    justify-content: flex-start;
-    align-items: center;
+    position: absolute;
+    top: 0;
+    left: 0;
 }
 .titulo_site{
 padding: 50px;
