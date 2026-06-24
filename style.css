@@ -73,7 +73,7 @@ justify-content: space-around;
 }
 .escola{
 background-image: linear-gradient(#FFF2DB,#fffaf2);
-color: white;
+color: rgb(255, 138, 138);
 display: flex;
 justify-content:center;
 padding: 24px 0;
@@ -91,7 +91,7 @@ padding: 12px 0;
 }
 
 .link{
-color: #ffffff;
+color: #ffdddd;
 text-decoration: none;
 }
 .estudante-nome{
@@ -119,7 +119,7 @@ justify-content: space-around;
 }
 .escola{
 background-image: linear-gradient(#FFF2DB, #ffd2f1);
-color: white;
+color: rgb(255, 176, 176);
 display: flex;
 justify-content:center;
 padding: 24px 0;
@@ -137,6 +137,6 @@ padding: 12px 0;
 }
 
 .link{
-color: #ffffff;
+color: #ff7575;
 text-decoration: none;
 }
