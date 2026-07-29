@@ -145,7 +145,7 @@ text-decoration: none;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Define a fonte moderna */
     font-size: 20px;            /* Define o tamanho da letra */
     font-weight: bold;          /* Deixa o texto em negrito */
-    color: #333333;             /* Cor do texto (grafite escuro) */
+    color: #ff6889;             /* Cor do texto (grafite escuro) */
     text-align: center;         /* Centraliza o texto na tela */
     margin-bottom: 15px;        /* Cria um espaço entre o texto e o vídeo */
 }
