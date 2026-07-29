@@ -147,5 +147,5 @@ text-decoration: none;
     font-weight: bold;          /* Deixa o texto em negrito */
     color: #333333;             /* Cor do texto (grafite escuro) */
     text-align: center;         /* Centraliza o texto na tela */
-    margin-bottom: 15px;        /* Cria um espaço entre o texto e o vídeo */
+    margin-bottom: 100px;        /* Cria um espaço entre o texto e o vídeo */
 }
