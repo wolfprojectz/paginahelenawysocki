@@ -142,10 +142,14 @@ text-decoration: none;
 
 
 .slushynoobz{
-font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-font-size: 20px;            
-font-weight: bold;       
-color: #ff6889;            
-text-align: center;         
-margin-bottom: 15px;
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ font-size: 20px;            
+ font-weight: bold;       
+ color: #ff6889;            
+ text-align: center;         
+ margin-bottom: 15px;
+}
+
+.container-video {
+    text-align: center;
 }
