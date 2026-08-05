@@ -37,11 +37,6 @@ justify-content: flex-end;
 width: 25%;
 padding-right: 30px;
 }
-Para tornar a classe .banner1 responsiva e garantir que ela se encaixe bem em qualquer tamanho de tela (dispositivos móveis, tablets e desktops), é recomendado ajustar as propriedades de dimensão e adicionar flexibilidade.
-
-Aqui está o código corrigido e otimizado:
-
-CSS
 .banner1 {
   display: flex;
   justify-content: center;
